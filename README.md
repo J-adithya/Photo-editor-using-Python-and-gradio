@@ -4,8 +4,8 @@ This project was done to showcase my work done during my internship at Muonium.a
 This Image Editor is a Python-based web application built with Gradio that allows users to apply various image processing operations, including flipping, rotating, resizing, adjusting brightness and contrast, converting to black and white, removing the background, and more.
 
 # Features
--Flip Image: Flip the image horizontally.
--Rotate Image: Rotate the image by a specified degree.
+- Flip Image: Flip the image horizontally.
+- Rotate Image: Rotate the image by a specified degree.
 -Convert to Black and White: Convert the image to grayscale.
 -Resize Image: Resize the image by a specified percentage.
 -Adjust Brightness: Modify the brightness of the image.
